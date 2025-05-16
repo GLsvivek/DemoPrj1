@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore log files
+*.log
+
+# Ignore a specific directory
+ignore.txt
